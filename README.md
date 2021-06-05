@@ -23,4 +23,4 @@ Both modes can be played with/without Spotify playback.
 
 | Bot Wins Screen       | Game Tied (One Player) | Game Won (Two Player)    | Game Tied (Two Player)   |
 |-----------------------|------------------------|--------------------------|--------------------------|
-| ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/botWinsScreenshot.png) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/botGameTieScreenshot.png) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/twoPlayerWinScreenshot.png) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/botGameTieScreenshot.png) |
+| ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/botWinsScreenshot.png) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/botGameTieScreenshot.png) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/twoPlayerWinScreenshot.png) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/twoPlayerTieScreenshot.png) |

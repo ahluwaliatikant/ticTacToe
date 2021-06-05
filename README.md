@@ -14,7 +14,16 @@ Both modes can be played with/without Spotify playback.
 - Entire app is built using Flutter.
 - The AI Bot is built using the "Minimax Algorithm".
 
+## Short Game Demos
+| One Player           | Two Player             |
+|----------------|-----------------|
+| ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/onePlayerDemo.gif) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/twoPlayerDemo.gif) |
+
 ## Screenshots
+
+| Onboarding 1         | Onboarding 2          | Onboarding 3           | Onboarding 4         |
+|-----------------------|------------------------|------------------------|----------------------|
+| ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/onboardOne.jpg) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/onboardTwo.jpg) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/onboardThree.jpg) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/onboardFour.jpg) |
 
 | Home Page          | Select Playlist Screen    | Select Mode Screen     | Game Screen           |
 |--------------------|---------------------------|------------------------|-----------------------|

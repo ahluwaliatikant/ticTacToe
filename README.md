@@ -23,7 +23,7 @@ Both modes can be played with/without Spotify playback.
 
 | Onboarding 1         | Onboarding 2          | Onboarding 3           | Onboarding 4         |
 |-----------------------|------------------------|------------------------|----------------------|
-| ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/onboardOne.jpg) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/onboardTwo.jpg) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/onboardThree.jpg) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/onboardFour.jpg) |
+| ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/onboard1.png) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/onboard2.png) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/onboard3.png) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/onboard4.png) |
 
 | Home Page          | Select Playlist Screen    | Select Mode Screen     | Game Screen           |
 |--------------------|---------------------------|------------------------|-----------------------|

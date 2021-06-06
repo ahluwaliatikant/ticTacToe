@@ -13,6 +13,17 @@ Both modes can be played with/without Spotify playback.
 ### Technologies Used
 - Entire app is built using Flutter.
 - The AI Bot is built using the "Minimax Algorithm".
+- Used the Spotify API to integrate playback of playlists from the user's Spotify Account.
+
+### Spotify Playback Features
+- Play any playlist created/followed by you.
+- Skip to next/previous track
+- Toggle Shuffle and Repeat
+
+### Follows best coding practices like
+- Separation Of Concerns: Separation of UI and logic
+- Unit Tests have also been included
+- Can easily be extended to include more modes/difficulties
 
 ## Apk Link
 https://drive.google.com/file/d/1LIEjf8FKVVkmvc7D5EGMtKH30fP_SStr/view?usp=sharing

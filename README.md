@@ -1,16 +1,35 @@
-# tictactoe
+# Tic Tac Toe
 
-A new Flutter application.
+A tic tac toe game built using Flutter which allows playback of playlists from your Spotify Account right in the app.
 
-## Getting Started
+### Modes 
 
-This project is a starting point for a Flutter application.
+The game has two modes -
+- One Player Mode: Play against an unbeatable AI Bot.
+- Two Player Mode: Play with your friends.
 
-A few resources to get you started if this is your first Flutter project:
+Both modes can be played with/without Spotify playback.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Technologies Used
+- Entire app is built using Flutter.
+- The AI Bot is built using the "Minimax Algorithm".
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Short Game Demos
+| One Player           | Two Player             |
+|----------------|-----------------|
+| ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/onePlayerDemo.gif) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/twoPlayerDemo.gif) |
+
+## Screenshots
+
+| Onboarding 1         | Onboarding 2          | Onboarding 3           | Onboarding 4         |
+|-----------------------|------------------------|------------------------|----------------------|
+| ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/onboardOne.jpg) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/onboardTwo.jpg) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/onboardThree.jpg) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/onboardFour.jpg) |
+
+| Home Page          | Select Playlist Screen    | Select Mode Screen     | Game Screen           |
+|--------------------|---------------------------|------------------------|-----------------------|
+| ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/homeScreenScreenshot.png) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/selectPlaylistScreenshot.png) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/selectModeScreenshot.png) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/gameScreenScreenshot.png) |
+
+
+| Bot Wins Screen       | Game Tied (One Player) | Game Won (Two Player)    | Game Tied (Two Player)   |
+|-----------------------|------------------------|--------------------------|--------------------------|
+| ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/botWinsScreenshot.png) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/botGameTieScreenshot.png) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/twoPlayerWinScreenshot.png) | ![](https://github.com/ahluwaliatikant/ticTacToe/blob/main/images/twoPlayerTieScreenshot.png) |

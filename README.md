@@ -14,6 +14,12 @@ Both modes can be played with/without Spotify playback.
 - Entire app is built using Flutter.
 - The AI Bot is built using the "Minimax Algorithm".
 
+## Apk Link
+https://drive.google.com/file/d/1LIEjf8FKVVkmvc7D5EGMtKH30fP_SStr/view?usp=sharing
+
+## Video Demo
+https://www.youtube.com/watch?v=dgErLsDXZN0
+
 ## Short Game Demos
 | One Player           | Two Player             |
 |----------------|-----------------|

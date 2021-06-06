@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:tictactoe/bot.dart';
-import 'package:tictactoe/board.dart';
 import 'package:tictactoe/ui/pages/gameOverPage.dart';
 import 'package:tictactoe/utils/convertIndexDimension.dart';
+import 'package:tictactoe/game/bot.dart';
+import 'package:tictactoe/game/board.dart';
 
 class TwoPlayerGrid extends StatefulWidget {
   final isMusic;

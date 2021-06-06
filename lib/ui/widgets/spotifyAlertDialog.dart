@@ -20,7 +20,7 @@ class SpotifyAlertDialog extends StatelessWidget {
             height: height*0.2,
             width: width*0.7,
             child: Text(
-              "The Spotify Api allows playback only from active devices.\nTo make your device active please open spotify app in the background and play a song for a second. :)",
+              "The Spotify Api allows playback only from active devices.\nTo make your device active please open spotify app in the background and show some activity (like playing a song for a second).",
             ),
           );
         },

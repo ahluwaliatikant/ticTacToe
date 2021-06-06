@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:spotify_sdk/spotify_sdk.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:tictactoe/ui/pages/gamePage.dart';
 import 'package:tictactoe/ui/pages/selectPlayMode.dart';
 import 'package:tictactoe/ui/pages/spotifyPlaylists.dart';
 
@@ -16,7 +15,7 @@ class _HomePageState extends State<HomePage> {
 
   void markOnboarded() async{
    SharedPreferences prefs = await SharedPreferences.getInstance();
-   prefs.setBool("onboard", true);
+   prefs.setBool("onboardingDone", true);
   }
 
 

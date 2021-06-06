@@ -9,7 +9,7 @@ import 'package:tictactoe/ui/pages/onboarding.dart';
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
   var prefs = await SharedPreferences.getInstance();
-  bool isOnboard = prefs.getBool("onboard" ?? false);
+  bool isOnboard = prefs.getBool("onboardingDone" ?? false);
   if(isOnboard == null){
     isOnboard = false;
   }

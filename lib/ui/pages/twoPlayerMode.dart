@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:tictactoe/ui/widgets/grid.dart';
 import 'package:tictactoe/ui/widgets/musicButtons.dart';
 import 'package:tictactoe/ui/widgets/twoPlayerGrid.dart';
 

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 import 'package:tictactoe/services/player.dart';
 
 class MusicButtons extends StatefulWidget {

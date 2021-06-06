@@ -76,7 +76,7 @@ class _IntroScreenState extends State<IntroScreen> {
     slides.add(
        Slide(
         title: "Spotify Playback",
-        description: "Play your favourite playlists from Spotify in background right from the app.\n\nNote: This feature is available only for Spotify Premium Customers.",
+        description: "Play your favourite playlists from Spotify in background right from the app.\n\n\nNote: This feature is available only for Spotify Premium Customers.",
         pathImage: "images/fourth.png",
         backgroundColor: Color(0xFF222222),
          styleTitle: GoogleFonts.poppins(

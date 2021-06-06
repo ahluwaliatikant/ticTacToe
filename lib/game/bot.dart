@@ -1,6 +1,6 @@
-import "configs.dart";
-import "position.dart";
-import "board.dart";
+import 'configs.dart';
+import 'package:tictactoe/game/position.dart';
+import 'package:tictactoe/game/board.dart';
 import "dart:math";
 
 class Bot {

@@ -1,5 +1,5 @@
-import "configs.dart";
-import "position.dart";
+import 'configs.dart';
+import 'package:tictactoe/game/position.dart';
 
 var winningCombinations = [
   [Position(0, 0), Position(0, 1), Position(0, 2)],

@@ -1,4 +1,4 @@
-import "configs.dart";
+import 'package:tictactoe/game/configs.dart';
 
 class Position {
   int _row, _col;
